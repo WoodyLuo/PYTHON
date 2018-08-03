@@ -1,7 +1,8 @@
 '''
 Exercise01 - Fahrenheit degree to Celsius degree.
 
-Copyright@ Woody Lo
+Chung Yuan Christian University
+written by Woody Lo (the teaching assistant of Python Course_Summer Camp.)
 '''
 
 # Variable initialization.
