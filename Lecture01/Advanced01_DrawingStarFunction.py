@@ -17,23 +17,23 @@ def drawingStar(penSize, starLength, fillStar):
 	turtle.pendown()
 	if fillStar == True:
 		''' Drawing star. '''
-		turtle.begin_fill()             # The begin of fill what we draw
+		turtle.begin_fill()             # The begin of fill what we draw.
 		for i in range(4):
 			turtle.forward(starLength)
 			turtle.right(144)           # Each angle of star is 36 degree (180-36=144).
 		turtle.forward(starLength)
-		turtle.end_fill()               # The end of fill what we draw
+		turtle.end_fill()               # The end of fill what we draw.
 		
 		# Initialization of drawing arrow.
 		self_angle = turtle.heading()
 		turtle.right(self_angle)
 		''' Filling Pentagon which in the center of star. '''
-		turtle.begin_fill()             # The begin of fill what we draw
+		turtle.begin_fill()             # The begin of fill what we draw.
 		turtle.forward(starLength/2.58)
 		for i in range(5):
 			turtle.forward(starLength/4.25)
 			turtle.right(72)            # Each angle of pentagon is 108 degree (180-108=72).
-		turtle.end_fill()               # The end of fill what we draw
+		turtle.end_fill()               # The end of fill what we draw.
 
 	else:
 		''' Drawing star. '''
@@ -51,8 +51,8 @@ def drawingStar(penSize, starLength, fillStar):
 
 
 
-turtle.showturtle()  # Open the window (default size is 400x400)
-turtle.penup()       # Take the pen up.
+turtle.showturtle()   # Open the window (default size is 400x400)
+turtle.penup()        # Take the pen up.
 turtle.goto(-100, 0)  # Go to (x, y) = (-208, 250).
 
 '''
