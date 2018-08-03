@@ -32,7 +32,7 @@ def drawingStar(penSize, starLength, fillStar):
 		turtle.forward(starLength/2.58)
 		for i in range(5):
 			turtle.forward(starLength/4.25)
-			turtle.right(72)           # Each angle of pentagon is 108 degree (180-108=72).
+			turtle.right(72)            # Each angle of pentagon is 108 degree (180-108=72).
 		turtle.end_fill()               # The end of fill what we draw
 
 	else:
