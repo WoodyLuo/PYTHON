@@ -1,5 +1,5 @@
-<center>Chung Yuan Christian University<br /></center>
-<center>1071 Python Summer Camp<br /></center>
+<p align="center">Chung Yuan Christian University<p>
+<p align="center">1071 Python Summer Camp<p>
 <br />
 Date: 2018/08/13(Monday) ~ 2018/0816(Thusday)<br />
 Time: AM09:00 ~ PM06:30<br />
