@@ -1,14 +1,14 @@
+Chung Yuan Christian University<br />
+1071 Python Summer Camp<br />
+<br />
+Date: 2018/08/13 ~2018/0816<br />
+Place: Chen Chih Hall 408<br />
+Instructor: Dr. Sean Chang, Yuan-Hsiang<br />
+Teaching assistant: Woody Lo, Wen-Cheng<br />
+Teaching assistant: Amy Zheng, Chun-Yun<br />
+Remark: Please bring your own laptop computer.<br />
+<br />
 <ul>
-<li>Chung Yuan Christian University</li>
-<li>1071 Python Summer Camp</li>
-<li></li>
-<li>Date: 2018/08/13 ~2018/0816</li>
-<li>Place: Chen Chih Hall 408</li>
-<li>Instructor: Dr. Sean Chang, Yuan-Hsiang</li>
-<li>Teaching assistant: Woody Lo, Wen-Cheng</li>
-<li>Teaching assistant: Amy Zheng, Chun-Yun</li>
-<li>Remark: Please bring your own laptop computer.</li>
-<li></li>
 <li>Lecture01: Computer Programming & Logic Thinking</li>
 <li>Lecture02: Elementary Programming</li>
 <li>Lecture03: Mathematical Functions, Characters and Strings</li>
@@ -22,6 +22,6 @@
 <li>Lecture11: Fundamentals of Algorithms</li>
 <li>Lecture12: Recursion</li>
 <li>Lecture13: Sorting</li>
-<li></li>
-<li></li>
+<br />
+<br />
 </ul>
