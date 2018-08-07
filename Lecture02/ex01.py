@@ -6,9 +6,7 @@ written by Woody Lo (the teaching assistant of Python Course_Summer Camp.)
 '''
 import math
 
-# Variable initialization.
-fahrenDegree = ""
-celsiusDegree = 0.0
+
 '''
 冒號 (Colon, ” : ”)
 分號 (Semicolon, “ ; ”)
@@ -52,11 +50,11 @@ DATA TYPE OF PYTHON:
 bol = True
 lst = []
 message = "Welcome to Python"
-print("Value of 'bol':", bol, "  Type of 'bol':", type(bol))
-print("Value of 'y':", y, "  Type of 'y':", type(y))
-print("Value of 'x':", x, "  Type of 'x':", type(x))
-print("Value of 'lst':", lst, "Type of 'lst':", type(lst))
-print("Value of 'message':", message, "  Type of 'message':", type(message))
+print("Value of 'bol':", bol, "  Type of 'bol':", type(bol))                  # Print value and data type
+print("Value of 'y':", y, "  Type of 'y':", type(y))                          # Print value and data type
+print("Value of 'x':", x, "  Type of 'x':", type(x))                          # Print value and data type
+print("Value of 'lst':", lst, "Type of 'lst':", type(lst))                    # Print value and data type
+print("Value of 'message':", message, "  Type of 'message':", type(message))  # Print value and data type
 
 value = 5.666
 print("int(value): ", int(value))                # Convert the data tpye from float to int (turncate).
