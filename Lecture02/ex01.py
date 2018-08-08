@@ -1,5 +1,5 @@
 '''
-Exercise01 - Fahrenheit degree to Celsius degree.
+Exercise01 - Elementary Programming
 
 Chung Yuan Christian University
 written by Woody Lo (the teaching assistant of Python Course_Summer Camp.)
@@ -11,7 +11,7 @@ import math
 冒號 (Colon, ” : ”)
 分號 (Semicolon, “ ; ”)
 連字號 (Hyphen, “ – “)
-括弧_圓弧 (Parentheses, 小括弧 “ ( ) 
+括弧_圓弧 (Parentheses, 小括弧 “ ( ) ”)
 括弧_方括” (Square brackets “ [ ] ”)
 斜線 (Slash “ / ”)
 反斜線 (backlash “ \ ”)
