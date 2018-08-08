@@ -64,7 +64,7 @@ Equation	等式,方程式
 Exponent	指數
 Fraction	分數
 Function	函數
-iNtegral Calculus	積分
+integral Calculus	積分
 Logarithm Table	對數表
 Logarithm	對數
 Mathematics	數學
